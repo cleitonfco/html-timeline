@@ -1,0 +1,275 @@
+
+{
+  "timeline":  
+  {
+    "headline":"A História do HTML",
+    "startDate":"1989",
+    "text":"<p>Vamos fazer uma viagem no tempo e tentar lembrar dos fatos que mais influenciaram na evolução da Web. Desde a sua invenção, por <strong>Tim Berners-Lee</strong>, passando pela Guerra dos Browsers, XHTML, até chegarmos, enfim, no <strong>HTML5</strong>.</p>",
+    "type":"default",
+    "asset":
+    {
+      "media":"assets/img/logo-html5.png"
+    },
+    "date": [
+      {
+        "startDate":"1990",
+        "headline":"Nasce a World Wide Web",
+        "text":"<p>Em 1989, <a href='http://www.w3.org/People/Berners-Lee/' target='_blank'>Tim Berners-Lee</a> propôs uma linguagem de marcação baseada no conceito de hipertexto para tentar resolver os problemas de comunicação e disseminação das pesquisas do <a href='http://www.cern.ch' target='_blank' title='Organização Européia para a Pesquisa Nuclear'>CERN</a>, onde trabalhava.</p><p>Em Dezembro de 1990, Berners-Lee, juntamente com <a href='http://public.web.cern.ch/public/en/People/Cailliau-en.html' target='_blank'>Robert Cailliau</a>, criou a linguagem HTML (HyperText Markup Language), o protocolo HTTP (HyperText Transfer Protocol), o primeiro servidor web, o primeiro Browser/Editor de páginas HTML, e muito mais. A tudo isso deram o nome de <strong>World Wide Web</strong>.</p>",
+        "asset":
+        {
+          "media":"assets/img/TimBernersLee_CParty.jpg",
+          "credit":"Flickr: <a href='http://www.flickr.com/photos/tanaka/' target='_blank'>Silvio Tanaka</a>",
+          "caption":"<strong>Tim Berners-Lee</strong> na Campus Party Brasil, em 2009"
+        }
+      },
+      {
+        "startDate":"1991",
+        "headline":"Primeiros passos",
+        "text":"<p>A primeira versão do HTML foi publicada com o nome de \"HTML Tags\" mas nunca foi adotada como um padrão. Tecnicamente, nunca recebeu um \"número de versão\".</p><p><span class='label'>Curiosidade:</span> Chegava aos EUA o primeiro servidor web fora do continente europeu, no Stanford Linear Accelerator Center (SLAC), Califórnia.</p>",
+        "asset":
+        {
+          "media":"assets/img/NextEditorBW.gif",
+          "credit":"<a href='http://info.cern.ch/NextBrowser.html' target='_blank'>info.cern.ch</a>",
+          "caption":"Web Browser original de Tim Berners-Lee, rodando em um Sistema Operacional NeXTStep."
+        }
+      },
+      {
+          "startDate":"1993",
+          "headline":"Browsers comerciais",
+          "text":"<p>O NSCA Mosaic foi o primeiro navegador a rodar no Windows, fator determinante para a abertura da web para o público em geral.</p><p>Em 1994, a Mosaic Communications se tornou a Netscape Communications, produzindo o Netscape Navigator.</p>",
+          "asset":
+          {
+              "media":"assets/img/Mosaic.Mac.png",
+              "credit":"<a href='http://en.wikipedia.org/wiki/File:NCSAMosaic1.0Mac.png' target='_blank'>Wikipedia</a>",
+              "caption":"Mosaic 1.0 mostrando o website da Empresa Mosaic Communications (mais tarde Netscape)."
+          }
+      
+      },
+      {
+          "startDate":"1994",
+          "headline":"World Wide Web Consortium (W3C)",
+          "text":"<p>Fundado por Tim Berners-Lee, o W3C é um consórcio internacional que agrega empresas, órgãos governamentais e organizações independentes, que visa desenvolver padrões para a criação e a interpretação de conteúdos para a Web.</p>",
+          "asset":
+          {
+              "media":"assets/img/W3C.png",
+              "credit":"<a href='http://en.wikipedia.org/wiki/File:W3C_Icon.svg' target='_blank'>Wikipedia</a>",
+              "caption":"Apple, Facebook, Google, Microsoft e outras empresas fazem parte do W3C que conta atualmente com mais de 350 membros."
+          }
+      
+      },
+      {
+          "startDate":"1995",
+          "endDate":"2001",
+          "headline":"Guerra dos Browsers",
+          "text":"<p>O Netscape, lançado em 1994, trouxe características como: navegação por abas, o bloqueio de pop ups, suporte a cookies, histórico de visitas, entre outros.</p><p>Por sua vez, a Microsoft lançou o Internet Explorer em 1995, embutido no seu mais novo sistema operacional: Windows 95. Era o início de uma guerra…</p><p>Cada navegador criava seus próprios recursos, elementos e características. No final da guerra, quem saiu perdendo? O usuário, com certeza!</p><p><span class='label'>Curiosidade:</span> Em 1995 é criado o <a href='http://pt.wikipedia.org/wiki/Comit%C3%AA_Gestor_da_Internet_no_Brasil' target='_blank'>Comitê Gestor da Internet no Brasil (CGI.br)</a>, e é liberada a operação comercial da Internet.",
+          "asset":
+          {
+            "media":"assets/img/browser-war.jpg",
+            "caption":"Entre 1995 e 2001, a Microsoft lançou as 6 primeiras versões do IE."
+          }
+      
+      },
+      {
+          "startDate":"1995,9",
+          "headline":"HTML 2.0",
+          "text":"Uma nova versão da linguagem HTML foi aprovada como padrão, pelo <acronym title='Internet Engineering Task Force'>IETF</acronym>.</p><p>Para a indústria de navegadores pouco importava a padronização, tanto Netscape como Internet Explorer já vinham adotando um conjunto de elementos que só viriam a ser incorporados nas futuras versões do HTML.</p>",
+          "asset":
+          {
+              "media":"assets/img/netscape1.jpg",
+              "credit":"<a href='http://www.niola.net/2010/04/21/fun-with-netscape-1-0/'>Jon's Journal</a>",
+              "caption":"A tela do Netscape 1.0 era um avanço tecnológico incrível para a época."
+          }
+      
+      },
+      {
+        "startDate":"1996,12",
+        "headline":"CSS Nível 1",
+        "text":"<p>Håkon Wium Lie (CERN) propôs uma linguagem para formatar as páginas HTML em 1994. No ano seguinte, juntamente com Bert Bos, desenvolveu a CSS (Cascading Style Sheet) que virou uma recomendação do W3C em <strong>dezembro de 1996</strong>.</p><p><span class='label'>Curiosidade:</span> O Internet Explorer foi o primeiro navegador (pasmem) a dar suporte à CSS.</p>",
+        "asset":
+        {
+          "media":"assets/img/HakonLie.jpg",
+          "credit":"<a href='http://people.opera.com/howcome/' target='_blank'>Opera / Perfil</a>",
+          "caption":"Håkon Wium Lie propôs a linguagem que daria origem ao CSS."
+        }
+      },
+      {
+          "startDate":"1997",
+          "headline":"HTML no W3C",
+          "text":"<p>Em Janeiro de 1997, é lançado o HTML 3.2 como uma recomendação do W3C. Essa versão adotou a maioria das tags de formatação visual utilizadas pelo Netscape.</p><p>No mesmo ano (Dezembro), o W3C resolve lançar o HTML 4.0, o primeiro com três variações: <i>Strict</i>, <i>Transitional</i> e <i>Frameset</i>. As tags de formatação visual existentes na linguagem são finalmentes marcadas como <i>em desuso</i>, dando mais espaço para as folhas de estilo.</p>",
+          "asset":
+          {
+              "media":"",
+              "credit":"",
+              "caption":""
+          }
+      
+      },
+      {
+        "startDate":"1998,5",
+        "headline":"CSS Nível 2",
+        "text":"<p>A especificação do CSS Nível 2 (CSS2) foi desenvolvida pelo W3C e publicada como uma recomendação em Maio de 1998.</p>",
+        "asset":
+        {
+          "media":"<h3>Algumas Novidades:</h3><ul class='big'><li>Propriedades: <i>(min|max)-(width|height), position (absolute, relative, fixed), text-shadow e z-index</i></li><li>Novos seletores</li><li>Novas pseudo classes: <i>:first-child, :hover, :focus, :lang</i></li><li>O conceito de <i>media types</i></li><li>Suporte a <i>aural style sheets</i></li><li>Quebra de páginas</li><li>Texto bidirecional, entre outras coisas</li></ul>",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"1999,5,12",
+        "headline":"HTML 4.01",
+        "text":"<p>A última versão do HTML recomendada pelo W3C foi lançada com algumas correções referentes à versão 4.0, porém, mantendo as mesmas variações (Strict, Transitional, Frameset).</p>",
+        "asset":
+        {
+          "media":"",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+          "startDate":"2000",
+          "headline":"XHTML 1.0",
+          "text":"<p>O W3C criou um grupo de trabalho para desenvolver uma \"Reformulação do HTML baseado no XML\". Assim surgiu o  XHTML (eXtensible HyperText Markup Language), que teve sua primeira Recomendação publicada em Janeiro de 2000. Assim como o HTML 4.01, tem 3 variações distintas:</p><ul><li>XHTML 1.0 Strict - o mais exigente</li><li>XHTML 1.0 Transitional - o mais permissivo</li><li>XHTML 1.0 Frameset - para frames</li></ul>",
+          "asset":
+          {
+            "media":"assets/img/XHTML-code.jpg",
+            "credit":"<a href='http://www.scriptingmaster.com/xhtml/xhtml.asp' target='_blank'>ScriptingMaster</a>",
+            "caption":"O Doctype define o tipo de código (Strict, Transitional ou Frameset) utilizado para escrever o documento."
+          }
+      
+      },
+      {
+          "startDate":"2001",
+          "headline":"XHTML 1.1",
+          "text":"<p>O XHTML 1.1 é uma reformulação do XHTML 1.0 Strict, com pequenas modificações.</p><p>Alguns elementos e atributos em desuso ou considerados obsoletos, que ainda eram permitidos no XHTML 1.0 Strict, foram removidos desta versão. Tudo que era relacionado à apresentação deve ser controlado puramente pelas Folhas de Estilo (CSS).</p><p>O XHTML 1.1 usa o conceito de Modularização de XHTML que permite que pequenas ferramentas sejam reutilizadas por outras aplicações XML de uma maneira bem definida, e que o XHTML seja estendido para alguns propósitos.</p>",
+          "asset":
+          {
+            "media":"",
+            "credit":"",
+            "caption":""
+          }
+      
+      },
+      {
+        "startDate":"2004,6",
+        "headline":"WHATWG",
+        "text":"<p>Web Hypertext Application Technology Working Group (WHATWG) é um grupo de trabalho interessado na evolução do HTML e tecnologias afins. Diferentemente do W3C, o WHATWG é mantido por pessoas ligadas a empresa como a Mozilla Foundation, Opera, Apple, entre outras.</p><p>O WHATWG surgiu como uma resposta ao lento desenvolvimento dos padrões web por parte do W3C e sua decisão de abandonar o HTML em favor do XHTML. Seus projetos principais são:</p><ul><li>HTML5</li><li>Web Controls 1.0</li><li>Web Workers</li><li>Web Forms 2.0</li></ul>",
+        "asset":
+        {
+          "media":"assets/img/whatwg.gif",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2004,11",
+        "headline":"Firefox é lançado",
+        "text":"<p>Depois do fim da Guerra dos Browsers o mercado de navegadores ficou muito calmo. O Internet Explorer 6, última versão do navegador da Microsoft, não era incomodado por ninguém e, portanto, não se preocupava muito em inovar, amadurecer ou evoluir.</p><p>Foi nesse cenário que surgiu a Mozilla Foundation, que mantém o projeto Mozilla e foi responsável por criar o <strong>Mozilla Firefox</strong>, ou simplesmente Firefox.</p><p>A grande contribuição que o Firefox deu para a história foi resgatar a competitividade do mercado de browsers.</p>",
+        "asset":
+        {
+          "media":"assets/img/firefox.jpg",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2006",
+        "headline":"Internet Explorer 7",
+        "text":"<p>Toda a popularidade conquistada pelo Firefox serviu para acordar a Microsoft, que mesmo do alto de seus 98% de participação no mercado, correu para lançar uma nova versão do Internet Explorer, que estava parado há 5 anos.</p><p>Mas o lançamento não correspondeu às expectativas do mercado, graças às alternativas existentes, o público se tornou mais exigente e o IE continuou perdendo mercado para outros browsers.</p><p><span class='label'>Curiosidade:</span> A Microsoft resolve acelerar o passo e lançou o IE8 em 2008 e o IE9 em 2011, ao mesmo tempo em que anunciava o desenvolvimento do IE10.</p>",
+        "asset":
+        {
+          "media":"assets/img/ie7.jpg",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2007",
+        "headline":"HTML5 no W3C",
+        "text":"<p>O W3C cria um Grupo de Trabalho responsável pela especificação do HTML5 tomando como ponto de partida o trabalho já realizado pelo WHATWG. Este Grupo publicou o Primeiro Rascunho Público em 22 de janeiro de 2008. Em maio de 2011, o Grupo de Trabalho avançou o HTML5 para o status de \"Last Call\", um convite para que a comunidade em geral possa validar a solidez técnica da especificação.</p>",
+        "asset":
+        {
+          "media":"",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2009,7",
+        "headline":"XHTML 2.0 é descontinuado",
+        "text":"<p>Entre agosto de 2002 e julho de 2006, o W3C lançou oito Rascunhos do XHTML 2.0, uma nova versão do XHTML capaz de fazer uma ruptura com o passado, descartando a exigência de compatibilidade com versões anteriores. Esta falta de compatibilidade com XHTML 1.x e HTML 4 causou alguma controvérsia na comunidade de desenvolvedores. Um nono projeto era esperado para 2009, mas em 2 de julho de 2009, o W3C decidiu deixar o prazo do Grupo expirar e não mais renovar.</p>",
+        "asset":
+        {
+          "media":"assets/img/long-live-xhtml.gif",
+          "credit":"Smashing Magazine, no post <a href='http://coding.smashingmagazine.com/2009/07/29/misunderstanding-markup-xhtml-2-comic-strip/' target='_blank'>Misunderstanding Markup: XHTML 2/HTML 5 Comic Strip</a>",
+          "caption":"Aos apaixonados pela sintaxe do XHTML a boa notícia é: você poderá continuar usando… com o HTML5."
+        }
+      },
+      {
+        "startDate":"2010,4",
+        "headline":"\"Pensamentos sobre o Flash\"",
+        "text":"<p>Este foi o título da carta aberta de Steve Jobs falando sobre os motivos que levaram sua companhia a excluir o recurso da Adobe de seus novos gadgets.</p><p>Jobs resolveu fazer isso como resposta aos clientes e aos críticos que questionavam a posição da Apple a respeito de não suportar Flash no novo iPad (bem como no iPod Touch e iPhone).</p><p>Sem perceber, Steve Jobs deu um grande impulso na discussão sobre o HTML5 e todos os padrões que o cercavam.</p>",
+        "asset":
+        {
+          "media":"assets/img/steve-jobs-ipad.jpg",
+          "credit":"Divulgação",
+          "caption":"Logo após lançar o primeiro iPad, Steve Jobs divulgou que preferia adotar o HTML5 a ter que usar o Flash no iPhone, iPod ou iPad."
+        }
+      },
+      {
+        "startDate":"2011,1,18",
+        "headline":"Logo do HTML5",
+        "text":"<p>A logo que ilustra esta apresentação e que todos já conhecem foi divulgada ao público no dia 18/01/2011 (conforme nós vemos no Tweet ao lado).</p><p>No dia seguinte a esse anúncio, Ian Hickson, passou a chamar o Grupo de Trabalho do WHATWG apenas de HTML (no W3C continua a mesma coisa) e anunciou que a especificação seria considerada \"Living Standard\", ou seja, na prática passa a ser um documento com constantes modificações.",
+        "asset":
+        {
+          "media":"https://twitter.com/#!/html5logo/status/27388017983361024",
+          "credit":"<a href='http://twitter.com'>Twitter</a>"
+        }
+      },
+      {
+        "startDate":"2011,3",
+        "headline":"Internet Explorer 9",
+        "text":"<p>Apesar de não ser o navegador preferido da maioria dos desenvolvedores, este foi um dos lançamentos mais aguardados pela comunidade.</p><p>A esperança era de que o mesmo viesse a substituir toda a base de usuários com versões anteriores, cada vez mais obsoletas. No entanto, o novo IE só pode ser instalado no Windows Vista XP 2, Windows 7 e Windows Server 2008. O que fez com que muita gente ficasse frustada com a Microsoft, de novo.</p>",
+        "asset":
+        {
+          "media":"assets/img/ie9.jpg",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2011,6",
+        "headline":"CSS Nível 2 Revisão 1",
+        "text":"<p>Chamado também de \"CSS 2.1\", corrige erros do CSS2, remove recursos mal-suportados ou não totalmente interoperáveis e adiciona extensões do navegador já implementadas com a especificação.</p><p>O primeiro status de <i>Candidate Recommendation</i> desta revisão foi em 2004, durante o período em que passou para se tornar finalmente uma Recomendação do W3C, os navegadores aproveitaram para amadurecer o suporte à mesma.</p>",
+        "asset":
+        {
+          "media":"assets/img/acid3.jpg",
+          "credit":"",
+          "caption":"O <a href='http://www.webstandards.org/action/acid3/' target='_blank'>Acid3</a> inclui testes de CSS 2.1, além de outros como: CSS3, DOM, ECMAScript, Media Queries, SVG e outros."
+        }
+      },
+      {
+        "startDate":"2011,11",
+        "headline":"Google Chrome se destaca",
+        "text":"<p>Segundo o site <a href='http://gs.statcounter.com/' target='_blank'>StatCounter</a>, um serviço especializado em analizar o tráfego na Web, o Chrome assumiu o <strong>2º lugar no ranking mundial</strong> de navegadores mais utilizados e chegou ao <strong>1º lugar no ranking brasileiro</strong>, ultrapassando portanto, o Internet Explorer.</p>",
+        "asset":
+        {
+          "media":"assets/img/browser-share.png",
+          "credit":"",
+          "caption":"Participação dos principais browsers no mercado brasileiro. Google Chrome é o único que cresce."
+        }
+      },
+      {
+        "startDate":"2011,11",
+        "headline":"CSS Nível 3",
+        "text":"<p>Diferente das outras versões o CSS3 é dividido em vários documentos separados chamados de \"módulos\". Cada  módulo é independente, tem seu próprio status e grau de estabilidade.</p><p>Em novembro de 2011, havia mais de 50 módulos CSS publicados. Alguns desse módulos (<i>Seletors, Level 3, Namespaces</i> e <i>Color</i>) <strong>tornaram-se Recomendações do W3C em 2011</strong>, outros (<i>Backgrounds, Borders, Media-Queries, Multi-column</i> e outros) têm status de <i>Candidate Recommendation</i> e são considerados moderadamente estáveis.</p>",
+        "asset":
+        {
+          "media":"assets/img/css3.jpg",
+          "credit":"",
+          "caption":""
+        }
+      }
+    ]
+  }
+}
