@@ -72,7 +72,7 @@
       {
           "startDate":"1995,9",
           "headline":"HTML 2.0",
-          "text":"Uma nova versão da linguagem HTML foi aprovada como padrão, pelo <acronym title='Internet Engineering Task Force'>IETF</acronym>.</p><p>Para a indústria de navegadores pouco importava a padronização, tanto Netscape como Internet Explorer já vinham adotando um conjunto de elementos que só viriam a ser incorporados nas futuras versões do HTML.</p>",
+          "text":"Uma nova versão da linguagem HTML foi aprovada como padrão, pelo <abbr title='Internet Engineering Task Force'>IETF</abbr>.</p><p>Para a indústria de navegadores pouco importava a padronização, tanto Netscape como Internet Explorer já vinham adotando um conjunto de elementos que só viriam a ser incorporados nas futuras versões do HTML.</p>",
           "asset":
           {
               "media":"assets/img/netscape1.jpg",
