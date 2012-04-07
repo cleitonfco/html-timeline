@@ -4,7 +4,7 @@
   {
     "headline":"A História do HTML",
     "startDate":"1989",
-    "text":"<p>Uma breve linha do tempo mostrando os principais acontencimentos que cercam a curta História da linguagem HTML e tecnologias afins. Para entendermos bem o cenário atual, é necessário conhecer a história e o contexto em que se passou.</p><p>Vamos fazer uma viagem desde a invenção da World Wide Web, por <strong>Tim Berners-Lee</strong>, passando pela Guerra dos Browsers, XHTML, até chegarmos, enfim, no <strong>HTML5</strong>.</p>",
+    "text":"<p>Uma breve linha do tempo mostrando os principais acontencimentos que cercam a curta História da linguagem HTML e tecnologias afins. Para entendermos bem o cenário atual, é necessário conhecermos a história e o contexto em que se passou.</p><p>Vamos fazer uma viagem desde a invenção da World Wide Web, por <strong>Tim Berners-Lee</strong>, passando pela Guerra dos Browsers, XHTML, até chegarmos, enfim, no <strong>HTML5</strong>.</p>",
     "type":"default",
     "asset":
     {
