@@ -49,7 +49,12 @@ header > a .alt {
 }
 .social-buttons li {
   display:inline;
+  margin:0 5px;
+  position:relative;
 }
 .social-buttons li div {
   display:inline;
+}
+.social-buttons li.fb {
+  top:-4px;
 }
