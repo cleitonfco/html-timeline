@@ -1,12 +1,20 @@
-header a {
+header {
   position: fixed;
-  height: 25px;
+  height: 30px;
   top: -10px;
   z-index: 1000;
   left: 10%;
+}
+header a {
+  font:12px/1.3 "Helvetica Neue", Arial, sans-serif;
+  color:#0088cc;
+}
+header > a {
   background-color:#64CDD0;
-  padding: 13px 10px 3px;
-  border-radius: 0 0 5px 5px;
+  padding: 18px 10px 8px;
+  -webkit-border-radius: 0 0 5px 5px;
+     -moz-border-radius: 0 0 5px 5px;
+          border-radius: 0 0 5px 5px;
   text-transform: uppercase;
   -webkit-box-shadow:1px 2px 3px rgba(0, 0, 0, 0.4);
      -moz-box-shadow:1px 2px 3px rgba(0, 0, 0, 0.4);
@@ -17,8 +25,31 @@ header a {
   letter-spacing:-0.05em;
   text-shadow:0 -1px 0 #999;
   display:block;
+  float:left;
+  width:295px;
 }
-header a .alt {
+header > a .alt {
   color:#000;
   text-shadow:none;
+}
+.buttons {
+  padding:14px 12px 2px;
+  margin:0 0 0 315px;
+  border-bottom:1px solid #dadada;
+  z-index:998;
+  width:100%;
+  background-color:rgba(255,255,255,0.85);
+  -webkit-box-sizing:border-box;
+     -moz-box-sizing:border-box;
+          box-sizing:border-box;
+}
+.social-buttons {
+  list-style:none;
+  margin:0;
+}
+.social-buttons li {
+  display:inline;
+}
+.social-buttons li div {
+  display:inline;
 }
