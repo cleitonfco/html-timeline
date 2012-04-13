@@ -26,7 +26,7 @@ header > a {
   text-shadow:0 -1px 0 #999;
   display:block;
   float:left;
-  width:295px;
+  width:300px;
 }
 header > a .alt {
   color:#000;
@@ -34,7 +34,7 @@ header > a .alt {
 }
 .buttons {
   padding:14px 12px 2px;
-  margin:0 0 0 315px;
+  margin:0 0 0 320px;
   border-bottom:1px solid #dadada;
   z-index:998;
   width:100%;
