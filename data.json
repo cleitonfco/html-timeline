@@ -269,6 +269,17 @@
           "credit":"",
           "caption":""
         }
+      },
+      {
+        "startDate":"2012,9,11",
+        "headline":"\"Nosso maior erro foi apostar em HTML5\", diz Zuckerberg",
+        "text":"<p>O dono do Facebook admitiu que \"perdeu dois anos\" em um sistema menos rápido e estável que outros disponíveis ao afirmar que o HTML5 não era maduro o suficiente como solução para os aplicativos móveis da maior Rede Social do mundo.</p>",
+        "asset":
+        {
+          "media":"assets/img/mark-zuckerberg2.jpeg",
+          "credit":"",
+          "caption":""
+        }
       }
     ]
   }
